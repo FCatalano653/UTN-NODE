@@ -1,0 +1,47 @@
+[
+    {
+      "codigo": "113705",
+      "nombre": "Aguas Femenino Frutas Tropicales",
+      "descripcion": "Frutal. Piña, Agua de coco, Maracuyá, Jazmín. Origen: Argentina",
+      "costo": "999.04",
+      "coeficiente": "1.35",
+      "stock": "2",
+      "urlfoto": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw2006a515/1200x1200/113705_1.jpg"
+    },
+    {
+      "codigo": "111171",
+      "nombre": "Kaiak Masculino Clasico",
+      "descripcion": "Una fragancia acuática. Una combinación icónica de notas aromáticas, cítricas y acuosas, que aportan una poderosa frescura.",
+      "costo": "999.04",
+      "coeficiente": "1.20",
+      "stock": "2",
+      "urlfoto": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw9e42adf0/1200x1200/111171_1.jpg"
+    },
+    {
+      "codigo": "15143",
+      "nombre": "Lumina Regular Acondicionador Oleoso",
+      "descripcion": "Puntas hidratadas de forma leve y equilibrada. Cabello 4x más suave. Hidratación balanceada, sin pesar. Control de la oleosidad y equilibrio del cuero cabelludo.",
+      "costo": "999.04",
+      "coeficiente": "1.43",
+      "stock": "2",
+      "urlfoto": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwc4d70cc6/NATARG-15143_1.jpg"
+    },
+    {
+      "codigo": "111173",
+      "nombre": "Kaiak Masculino Aventura",
+      "descripcion": "Frescura cítrica y vibrante de la bergamota con notas de musk y maderas cremosas como el sándalo.",
+      "costo": "999.04",
+      "coeficiente": "1.15",
+      "stock": "2",
+      "urlfoto": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5c071ff9/1200x1200/111173_1.jpg"
+    },
+    {
+      "codigo": "118132",
+      "nombre": "Essencial exclusivo eau de parfum masculino",
+      "descripcion": "Todo el poder del exclusivo en una creación moderna y sofisticada, que hace que cada momento sea único. Enriquecido por las especias modernas, con el cuerpo de la madera y los ingredientes naturales inéditos brasileños. Creación moderna, fuerte y al mismo tiempo misteriosa que combina la copaíba, madera de la biodiversidad brasileña, con especias frescas, como cardamomo y pimienta.",
+      "costo": "23458.00",
+      "coeficiente": "1.27",
+      "stock": "2",
+      "urlfoto": ""
+    }
+  ]
